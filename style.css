@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-family: Rajdhani, sans-serif;
+}
+
+header {
+  margin: 2% auto;
+  border-bottom: 3px solid black;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+h3 {
+  text-decoration-line: underline;
+}
+
+p,
+a {
+  margin: 20px;
+}
+
+h2 {
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  text-decoration-line: underline;
+}
